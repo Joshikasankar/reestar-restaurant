@@ -1,0 +1,46 @@
+*{
+  padding: 0%;
+  margin: 0%;
+} 
+.header{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav{
+  color: gray;
+}
+li{
+  display: inline;
+}
+.img1{ 
+  border: 2px black solid;
+  display: inline-block;
+  width: 220px;
+}
+.button{
+  margin-left: 50px;
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
+.items{
+  margin-top: 10px;
+   
+}
+ 
+footer{
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+.field{
+  display: inline;
+}
+.send{
+  padding: 5px;
+  width: 500px;
+  background-color: yellow;
+}
